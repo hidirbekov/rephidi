@@ -1,15 +1,20 @@
 body {
-    background-color: aquamarine;
-    color: blue;
+    background-color: white;
+    color: black;
 }
-p{
-    color: gray;
+img {
+    width: 943,612px;
+    height: 387px;
+    flex-shrink: 0;
 }
-
-.dx1{
-    color: sienna;
+.one {
+    color: black;
+    width: 49,204px;
+    height: 23,034px;
+    flex-shrink: 0;
 }
-
-#id{
-    color: green;
+.second {
+    width: 82,342px;
+    height: 23,034px;
+    flex-shrink: 0;
 }
